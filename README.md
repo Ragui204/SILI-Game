@@ -1,2 +1,0 @@
-# SILI-Game
-SILI Game
